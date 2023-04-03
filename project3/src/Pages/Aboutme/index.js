@@ -1,6 +1,6 @@
 import { Typography } from '@mui/material';
 
-export default function Aboutus(){
+export default function Aboutme(){
     return(
         <>
 <Typography>Name: SRUTHILAYA</Typography>
